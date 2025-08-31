@@ -56,8 +56,12 @@ src/
    ```
 3. Acesse a pasta do projeto:
    ```bash
-   cd product-list-api
+   cd product-list-api/
    ```
+   ```bash
+   cd product-list/
+   ```
+   
 4. Ajuste o arquivo json para o path absolut no `application.properties`:
    ```properties
    product.json.path={diretorio da sua máquina}product-list-api/product-list/src/main/resources/jsons/products.json
