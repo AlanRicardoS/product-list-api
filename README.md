@@ -1,10 +1,15 @@
 # Product List API
 
-Uma API REST desenvolvida em Spring Boot para gerenciamento e listagem de produtos, oferecendo funcionalidades completas de consulta, busca e paginação.
+## [repositório oficial](https://github.com/AlanRicardoS/product-list-api)
+
+Uma API REST desenvolvida em Spring Boot para gerenciamento e listagem de produtos, oferecendo funcionalidades completas
+de consulta, busca e paginação.
 
 ## 📋 Sobre o Projeto
 
-A Product List API é uma aplicação backend que permite gerenciar um catálogo de produtos com recursos avançados de busca e filtragem. A API oferece endpoints para listar produtos com paginação, buscar produtos por diferentes critérios e obter detalhes específicos de produtos.
+A Product List API é uma aplicação backend que permite gerenciar um catálogo de produtos com recursos avançados de busca
+e filtragem. A API oferece endpoints para listar produtos com paginação, buscar produtos por diferentes critérios e
+obter detalhes específicos de produtos.
 
 ### ✨ Funcionalidades
 
@@ -61,33 +66,41 @@ src/
    ```bash
    ./gradlew bootRun
    ```
+
 6.Acesse a API em: `http://localhost:8080/api/products`
 
 ## 📦 Exemplos de Uso
 
 - **Listar produtos (paginado):**
-  - `GET /api/products?page=0&size=10&sort=name,asc`
+    - `GET /api/products?page=0&size=10&sort=name,asc`
 - **Buscar produto por ID:**
-  - `GET /api/products/{id}`
+    - `GET /api/products/{id}`
 - **Busca avançada:**
-  - `GET /api/products/search?name=fone&minPrice=100&maxPrice=500`
+    - `GET /api/products/search?name=fone&minPrice=100&maxPrice=500`
 
 ## 📚 Documentação da API
 
 Acesse a interface Swagger/OpenAPI para explorar e testar os endpoints:
+
 - [Swagger UI](http://localhost:8080/swagger-ui.html)
 - [OpenAPI JSON](http://localhost:8080/v3/api-docs)
 - [Diagramas e Modelagem](documents/DIAGRAMAS.md)
+
 ## 🧪 Testes
 
 Execute os testes automatizados com:
+
 ```bash
 ./gradlew test
 ```
 
+Voce também pode utilizar o [arquivo de request](requests/product-list.http) que possui a configuração dos endpoints
+para facilitar os testes via REST Client no VSCode.
+
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
+
 1. Fork este repositório
 2. Crie uma branch (`git checkout -b feature/nova-feature`)
 3. Faça suas alterações
