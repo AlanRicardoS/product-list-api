@@ -37,8 +37,6 @@ GET http://localhost:8080/products?
 ### GET PRODUCT BY ID
 GET http://localhost:8080/products/03059512-264d-4525-876a-c1331aef5a80
 
-### SEARCH PRODUCTS
-GET http://localhost:8080/products/search?query=Laptop
 
 ### SEARCH PRODUCTS BY SPECIFICATIONS
-GET http://localhost:8080/products/search?name=Laptop&specifications=RAM%3A16GB&ratingMin=4&ratingMax=5&priceMin=500&priceMax=25001500
+GET http://localhost:8080/products/search?name=Mouse&specifications=DPI%3A800&ratingMin=2&ratingMax=5&priceMin=2&priceMax=2500
