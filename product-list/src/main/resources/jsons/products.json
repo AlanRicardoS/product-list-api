@@ -1,0 +1,2480 @@
+[
+  {
+    "productId": "03059512-264d-4525-876a-c1331aef5a80",
+    "name": "Smartphone X",
+    "price": 1000,
+    "datCreation": "2024-06-01T10:00:00Z",
+    "datUpdate": null,
+    "description": "High-end smartphone with OLED display.",
+    "imageUrl": "https://example.com/images/smartphone-x.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "6028df04-a1e0-4dd0-9c65-bb4e3181a615",
+        "productId": "03059512-264d-4525-876a-c1331aef5a80",
+        "key": "Display",
+        "value": "6.5 inch OLED"
+      },
+      {
+        "specificationId": "e921a56b-ec20-442b-a2fe-81100d529ebe",
+        "productId": "03059512-264d-4525-876a-c1331aef5a80",
+        "key": "Battery",
+        "value": "4000mAh"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "28d324d5-dbc4-4308-90b5-94fc27f459a1",
+        "customerId": "2e0080ca-6d44-4193-a639-3e2501c5b6b6",
+        "productId": "03059512-264d-4525-876a-c1331aef5a80",
+        "score": 5,
+        "message": "Excellent phone!"
+      },
+      {
+        "ratingId": "0354f226-04b3-43a4-8677-3488cfe6d787",
+        "customerId": "fa789f2d-acbe-40b8-a058-51e0f033ddea",
+        "productId": "03059512-264d-4525-876a-c1331aef5a80",
+        "score": 4.1,
+        "message": "Good phone, but battery life is too short."
+      },
+      {
+        "ratingId": "2ca3c7df-e3cf-4f17-9fb0-1f29833a9c17",
+        "customerId": "3786fb6d-b48f-4765-9409-0b33e0d4801a",
+        "productId": "03059512-264d-4525-876a-c1331aef5a80",
+        "score": 3.1,
+        "message": "Phone is not very good."
+      },
+      {
+        "ratingId": "6d146034-d9b1-417e-8746-9016b878aa47",
+        "customerId": "655e53c3-8cdb-46f1-8c5c-4dfdedf56cb1",
+        "productId": "03059512-264d-4525-876a-c1331aef5a80",
+        "score": 2.8,
+        "message": "Not satisfied with the phone."
+      },
+      {
+        "ratingId": "204084b9-26e7-4e82-9409-91668005ce4e",
+        "customerId": "d5bb3464-4640-4bf7-9296-a32798eeb1ef",
+        "productId": "03059512-264d-4525-876a-c1331aef5a80",
+        "score": 4.1,
+        "message": "Excellent phone!"
+      }
+    ]
+  },
+  {
+    "productId": "b1f5c8e2-3c4a-4f9e-9d2a-8f3e2b6c9f1a",
+    "name": "Laptop Pro",
+    "price": 2000,
+    "datCreation": "2024-06-02T11:30:00Z",
+    "datUpdate": null,
+    "description": "Powerful laptop for professionals.",
+    "imageUrl": "https://example.com/images/laptop-pro.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "a7c9e8f1-5d6b-4c3a-9f8e-2b1c3d4e5f6a",
+        "productId": "b1f5c8e2-3c4a-4f9e-9d2a-8f3e2b6c9f1a",
+        "key": "Processor",
+        "value": "Intel i7"
+      },
+      {
+        "specificationId": "b2d3e4f5-a6b7-8c9d-0e1f-2a3b4c5d6e7f",
+        "productId": "b1f5c8e2-3c4a-4f9e-9d2a-8f3e2b6c9f1a",
+        "key": "RAM",
+        "value": "16GB"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f9a",
+        "customerId": "82405e88-50d5-4167-be8c-65c10f28609c",
+        "productId": "b1f5c8e2-3c4a-4f9e-9d2a-8f3e2b6c9f1a",
+        "score": 4.2,
+        "message": "Great performance, but a bit heavy."
+      },
+      {
+        "ratingId": "d19f44e9-45f1-4ed0-83fc-46d2a826fd0c",
+        "customerId": "943f0849-1d2e-47ac-bdb0-19932df190f4",
+        "productId": "b1f5c8e2-3c4a-4f9e-9d2a-8f3e2b6c9f1a",
+        "score": 5,
+        "message": "Great performance"
+      },
+      {
+        "ratingId": "e491f5f0-d593-4068-82f9-205ed15519db",
+        "customerId": "2de81af1-32c8-4254-b944-20ce8c9e44a2",
+        "productId": "b1f5c8e2-3c4a-4f9e-9d2a-8f3e2b6c9f1a",
+        "score": 3.8,
+        "message": "Good laptop, but battery life could be better."
+      },
+      {
+        "ratingId": "e3bbd145-953c-4198-9361-17c5a5648158",
+        "customerId": "7b9e5044-c102-4c5b-988b-e7108a924e30",
+        "productId": "b1f5c8e2-3c4a-4f9e-9d2a-8f3e2b6c9f1a",
+        "score": 4.9,
+        "message": "Excellent laptop!"
+      },
+      {
+        "ratingId": "618aeb52-dfd1-442f-b3d4-583fd0572eee",
+        "customerId": "ef9976ba-470e-4052-88d6-389c320e1aba",
+        "productId": "b1f5c8e2-3c4a-4f9e-9d2a-8f3e2b6c9f1a",
+        "score": 4.8,
+        "message": "Excellent laptop!"
+      }
+    ]
+  },
+  {
+    "productId": "c1a2b3d4-e5f6-4789-abcd-001122334455",
+    "name": "Smartwatch S",
+    "price": 299.99,
+    "datCreation": "2024-06-05T09:00:00Z",
+    "datUpdate": null,
+    "description": "Stylish smartwatch with heart-rate monitoring and GPS.",
+    "imageUrl": "https://example.com/images/smartwatch-s.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555001",
+        "productId": "c1a2b3d4-e5f6-4789-abcd-001122334455",
+        "key": "Display",
+        "value": "1.4 inch AMOLED"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555002",
+        "productId": "c1a2b3d4-e5f6-4789-abcd-001122334455",
+        "key": "Water Resistance",
+        "value": "5 ATM"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555001",
+        "customerId": "3c6c21c7-2db4-4b63-90d3-1d7c0f0c10a1",
+        "productId": "c1a2b3d4-e5f6-4789-abcd-001122334455",
+        "score": 4.6,
+        "message": "Great battery and features."
+      }
+    ]
+  },
+  {
+    "productId": "d2b3c4e5-f6a7-489a-bcde-102132435465",
+    "name": "Wireless Earbuds Plus",
+    "price": 149.5,
+    "datCreation": "2024-06-06T12:00:00Z",
+    "datUpdate": null,
+    "description": "Noise-isolating true wireless earbuds with long battery life.",
+    "imageUrl": "https://example.com/images/earbuds-plus.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555003",
+        "productId": "d2b3c4e5-f6a7-489a-bcde-102132435465",
+        "key": "Battery Life",
+        "value": "8 hours + 24 hours case"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555004",
+        "productId": "d2b3c4e5-f6a7-489a-bcde-102132435465",
+        "key": "Codec",
+        "value": "AAC, SBC"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555002",
+        "customerId": "5a0a7a98-0b7d-4fb8-9a1a-9e2a3f2af1c1",
+        "productId": "d2b3c4e5-f6a7-489a-bcde-102132435465",
+        "score": 4.2,
+        "message": "Comfortable fit and clear sound."
+      }
+    ]
+  },
+  {
+    "productId": "e3c4d5f6-a7b8-49ab-cdef-223344556677",
+    "name": "Phone Case for Smartphone X",
+    "price": 24.99,
+    "datCreation": "2024-06-07T08:30:00Z",
+    "datUpdate": null,
+    "description": "Protective silicone case tailored for Smartphone X.",
+    "imageUrl": "https://example.com/images/phone-case-x.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555005",
+        "productId": "e3c4d5f6-a7b8-49ab-cdef-223344556677",
+        "key": "Material",
+        "value": "Silicone"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555006",
+        "productId": "e3c4d5f6-a7b8-49ab-cdef-223344556677",
+        "key": "Compatibility",
+        "value": "Smartphone X"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555003",
+        "customerId": "b86f5b43-7e57-4220-9c67-6e3e0b8ec123",
+        "productId": "e3c4d5f6-a7b8-49ab-cdef-223344556677",
+        "score": 4.8,
+        "message": "Perfect fit and grip."
+      }
+    ]
+  },
+  {
+    "productId": "f4d5e6a7-b8c9-4abc-def0-334455667788",
+    "name": "Wireless Charger Pad",
+    "price": 39.0,
+    "datCreation": "2024-06-07T09:00:00Z",
+    "datUpdate": null,
+    "description": "Fast wireless charging pad compatible with Qi devices.",
+    "imageUrl": "https://example.com/images/wireless-charger-pad.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555007",
+        "productId": "f4d5e6a7-b8c9-4abc-def0-334455667788",
+        "key": "Output",
+        "value": "15W Max"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555008",
+        "productId": "f4d5e6a7-b8c9-4abc-def0-334455667788",
+        "key": "Connector",
+        "value": "USB-C"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555004",
+        "customerId": "03c6a97a-89ff-4c48-8b0e-0c4a1dbb0fd1",
+        "productId": "f4d5e6a7-b8c9-4abc-def0-334455667788",
+        "score": 4.0,
+        "message": "Charges quickly and looks nice."
+      }
+    ]
+  },
+  {
+    "productId": "a5e6f7b8-c9d0-4bcd-ef01-445566778899",
+    "name": "Laptop Sleeve 15-inch (for Laptop Pro)",
+    "price": 29.99,
+    "datCreation": "2024-06-08T10:15:00Z",
+    "datUpdate": null,
+    "description": "Protective neoprene sleeve designed for 15-inch laptops.",
+    "imageUrl": "https://example.com/images/laptop-sleeve-15.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555009",
+        "productId": "a5e6f7b8-c9d0-4bcd-ef01-445566778899",
+        "key": "Size",
+        "value": "15-inch"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555500a",
+        "productId": "a5e6f7b8-c9d0-4bcd-ef01-445566778899",
+        "key": "Material",
+        "value": "Neoprene"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555005",
+        "customerId": "c1c9dc2e-0ea0-4f79-86ab-8e98d9a1b3e2",
+        "productId": "a5e6f7b8-c9d0-4bcd-ef01-445566778899",
+        "score": 4.5,
+        "message": "Fits Laptop Pro snugly."
+      }
+    ]
+  },
+  {
+    "productId": "b6f7a8c9-d0e1-4cde-f012-556677889900",
+    "name": "USB-C Hub 7-in-1",
+    "price": 69.99,
+    "datCreation": "2024-06-08T11:00:00Z",
+    "datUpdate": null,
+    "description": "Expand your laptop ports with HDMI, USB-A, and card readers.",
+    "imageUrl": "https://example.com/images/usb-c-hub-7in1.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555500b",
+        "productId": "b6f7a8c9-d0e1-4cde-f012-556677889900",
+        "key": "Ports",
+        "value": "HDMI, 2x USB-A 3.0, USB-C PD, SD, microSD, Audio"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555500c",
+        "productId": "b6f7a8c9-d0e1-4cde-f012-556677889900",
+        "key": "HDMI",
+        "value": "4K@60Hz"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555006",
+        "customerId": "d5c3a1e8-4a25-4a7a-86f3-e7f0e34f3f6a",
+        "productId": "b6f7a8c9-d0e1-4cde-f012-556677889900",
+        "score": 4.3,
+        "message": "Works flawlessly with my Laptop Pro."
+      }
+    ]
+  },
+  {
+    "productId": "c7a8b9d0-e1f2-4def-0123-6677889900aa",
+    "name": "Bluetooth Mouse",
+    "price": 34.99,
+    "datCreation": "2024-06-09T08:45:00Z",
+    "datUpdate": null,
+    "description": "Ergonomic Bluetooth mouse with silent clicks.",
+    "imageUrl": "https://example.com/images/bluetooth-mouse.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555500d",
+        "productId": "c7a8b9d0-e1f2-4def-0123-6677889900aa",
+        "key": "DPI",
+        "value": "800/1200/1600"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555500e",
+        "productId": "c7a8b9d0-e1f2-4def-0123-6677889900aa",
+        "key": "Battery",
+        "value": "Rechargeable"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555007",
+        "customerId": "0d340f3d-1b2e-4ac0-9e90-1d9b7d12ef34",
+        "productId": "c7a8b9d0-e1f2-4def-0123-6677889900aa",
+        "score": 4.4,
+        "message": "Quiet and precise."
+      }
+    ]
+  },
+  {
+    "productId": "d8b9c0e1-f2a3-4ef0-1234-77889900aabb",
+    "name": "Mechanical Keyboard TKL",
+    "price": 89.0,
+    "datCreation": "2024-06-09T09:30:00Z",
+    "datUpdate": null,
+    "description": "Tenkeyless mechanical keyboard with hot-swappable switches.",
+    "imageUrl": "https://example.com/images/mech-keyboard-tkl.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555500f",
+        "productId": "d8b9c0e1-f2a3-4ef0-1234-77889900aabb",
+        "key": "Switch Type",
+        "value": "Tactile"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555010",
+        "productId": "d8b9c0e1-f2a3-4ef0-1234-77889900aabb",
+        "key": "Layout",
+        "value": "US TKL"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555008",
+        "customerId": "f46b2b79-8a74-4b66-9e0d-06acb5ecb1d2",
+        "productId": "d8b9c0e1-f2a3-4ef0-1234-77889900aabb",
+        "score": 4.7,
+        "message": "Great typing feel."
+      }
+    ]
+  },
+  {
+    "productId": "e9c0d1f2-a3b4-4f01-2345-889900aabbcc",
+    "name": "4K UHD Monitor 27\"",
+    "price": 329.99,
+    "datCreation": "2024-06-10T10:00:00Z",
+    "datUpdate": null,
+    "description": "27-inch 4K IPS monitor with HDR support.",
+    "imageUrl": "https://example.com/images/4k-monitor-27.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555011",
+        "productId": "e9c0d1f2-a3b4-4f01-2345-889900aabbcc",
+        "key": "Resolution",
+        "value": "3840x2160"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555012",
+        "productId": "e9c0d1f2-a3b4-4f01-2345-889900aabbcc",
+        "key": "Refresh Rate",
+        "value": "60Hz"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555009",
+        "customerId": "6d9f1b32-85b8-4f63-86b5-93f1b0a45a91",
+        "productId": "e9c0d1f2-a3b4-4f01-2345-889900aabbcc",
+        "score": 4.5,
+        "message": "Crisp and color-accurate."
+      }
+    ]
+  },
+  {
+    "productId": "fa01b2c3-d4e5-4012-3456-9900aabbccdd",
+    "name": "Noise-Cancelling Headphones",
+    "price": 249.0,
+    "datCreation": "2024-06-11T14:20:00Z",
+    "datUpdate": null,
+    "description": "Over-ear ANC headphones with 30-hour battery life.",
+    "imageUrl": "https://example.com/images/anc-headphones.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555013",
+        "productId": "fa01b2c3-d4e5-4012-3456-9900aabbccdd",
+        "key": "Battery Life",
+        "value": "30 hours"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555014",
+        "productId": "fa01b2c3-d4e5-4012-3456-9900aabbccdd",
+        "key": "Connectivity",
+        "value": "Bluetooth 5.2"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555010",
+        "customerId": "c56ec3a0-5f3c-4f15-8ed0-6b1a7487961b",
+        "productId": "fa01b2c3-d4e5-4012-3456-9900aabbccdd",
+        "score": 4.6,
+        "message": "Excellent ANC for flights."
+      }
+    ]
+  },
+  {
+    "productId": "0ab1c2d3-e4f5-4123-4567-a0b1c2d3e4f5",
+    "name": "Fitness Band Lite",
+    "price": 59.99,
+    "datCreation": "2024-06-12T07:40:00Z",
+    "datUpdate": null,
+    "description": "Lightweight fitness tracker with sleep monitoring.",
+    "imageUrl": "https://example.com/images/fitness-band-lite.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555015",
+        "productId": "0ab1c2d3-e4f5-4123-4567-a0b1c2d3e4f5",
+        "key": "Sensors",
+        "value": "Heart rate, SpO2"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555016",
+        "productId": "0ab1c2d3-e4f5-4123-4567-a0b1c2d3e4f5",
+        "key": "Battery Life",
+        "value": "10 days"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555011",
+        "customerId": "ab2c2f27-601d-4c16-82f6-0d0a7f92d1f0",
+        "productId": "0ab1c2d3-e4f5-4123-4567-a0b1c2d3e4f5",
+        "score": 4.1,
+        "message": "Good value for tracking basics."
+      }
+    ]
+  },
+  {
+    "productId": "1bc2d3e4-f5a6-4234-5678-b1c2d3e4f5a6",
+    "name": "Smart Home Hub",
+    "price": 119.0,
+    "datCreation": "2024-06-12T09:15:00Z",
+    "datUpdate": null,
+    "description": "Central hub to connect and automate your smart devices.",
+    "imageUrl": "https://example.com/images/smart-home-hub.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555017",
+        "productId": "1bc2d3e4-f5a6-4234-5678-b1c2d3e4f5a6",
+        "key": "Protocols",
+        "value": "Wi‑Fi, Zigbee, Thread"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555018",
+        "productId": "1bc2d3e4-f5a6-4234-5678-b1c2d3e4f5a6",
+        "key": "Voice",
+        "value": "Assistant compatible"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555012",
+        "customerId": "e7f6a9c0-4f59-4e8c-95d9-5a0df27a9b44",
+        "productId": "1bc2d3e4-f5a6-4234-5678-b1c2d3e4f5a6",
+        "score": 4.0,
+        "message": "Easy to set up automations."
+      }
+    ]
+  },
+  {
+    "productId": "2cd3e4f5-a6b7-4345-6789-c2d3e4f5a6b7",
+    "name": "Wi‑Fi 6 Router AX3000",
+    "price": 139.99,
+    "datCreation": "2024-06-13T10:00:00Z",
+    "datUpdate": null,
+    "description": "Dual-band Wi‑Fi 6 router with MU-MIMO and OFDMA.",
+    "imageUrl": "https://example.com/images/router-ax3000.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555019",
+        "productId": "2cd3e4f5-a6b7-4345-6789-c2d3e4f5a6b7",
+        "key": "Standard",
+        "value": "802.11ax"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555501a",
+        "productId": "2cd3e4f5-a6b7-4345-6789-c2d3e4f5a6b7",
+        "key": "Speed",
+        "value": "AX3000"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555013",
+        "customerId": "6a2a9ac7-02f8-4d69-9a00-24220c5a9f20",
+        "productId": "2cd3e4f5-a6b7-4345-6789-c2d3e4f5a6b7",
+        "score": 4.3,
+        "message": "Stable and fast connection."
+      }
+    ]
+  },
+  {
+    "productId": "3de4f5a6-b7c8-4456-7890-d3e4f5a6b7c8",
+    "name": "4K Webcam Pro",
+    "price": 119.5,
+    "datCreation": "2024-06-14T08:10:00Z",
+    "datUpdate": null,
+    "description": "Ultra HD webcam with autofocus and dual microphones.",
+    "imageUrl": "https://example.com/images/4k-webcam-pro.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555501b",
+        "productId": "3de4f5a6-b7c8-4456-7890-d3e4f5a6b7c8",
+        "key": "Resolution",
+        "value": "4K UHD"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555501c",
+        "productId": "3de4f5a6-b7c8-4456-7890-d3e4f5a6b7c8",
+        "key": "Field of View",
+        "value": "90°"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555014",
+        "customerId": "89e47d2c-1e2c-45f5-b0b7-1c1d2f3a4b5c",
+        "productId": "3de4f5a6-b7c8-4456-7890-d3e4f5a6b7c8",
+        "score": 4.4,
+        "message": "Great image quality for calls."
+      }
+    ]
+  },
+  {
+    "productId": "4ef5a6b7-c8d9-4567-8901-e4f5a6b7c8d9",
+    "name": "USB Podcast Microphone",
+    "price": 99.99,
+    "datCreation": "2024-06-14T09:30:00Z",
+    "datUpdate": null,
+    "description": "Plug-and-play condenser mic with cardioid pattern.",
+    "imageUrl": "https://example.com/images/usb-podcast-mic.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555501d",
+        "productId": "4ef5a6b7-c8d9-4567-8901-e4f5a6b7c8d9",
+        "key": "Pattern",
+        "value": "Cardioid"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555501e",
+        "productId": "4ef5a6b7-c8d9-4567-8901-e4f5a6b7c8d9",
+        "key": "Connector",
+        "value": "USB-C"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555015",
+        "customerId": "f1a2b3c4-d5e6-47f8-9012-3456789abcde",
+        "productId": "4ef5a6b7-c8d9-4567-8901-e4f5a6b7c8d9",
+        "score": 4.2,
+        "message": "Clear sound and easy setup."
+      }
+    ]
+  },
+  {
+    "productId": "5f06a7b8-d9ea-4678-9012-f5a6b7c8d9ea",
+    "name": "27W USB-C Charger",
+    "price": 24.5,
+    "datCreation": "2024-06-15T11:00:00Z",
+    "datUpdate": null,
+    "description": "Compact USB-C PD wall charger suitable for phones and tablets.",
+    "imageUrl": "https://example.com/images/usb-c-charger-27w.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555501f",
+        "productId": "5f06a7b8-d9ea-4678-9012-f5a6b7c8d9ea",
+        "key": "Power",
+        "value": "27W PD"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555020",
+        "productId": "5f06a7b8-d9ea-4678-9012-f5a6b7c8d9ea",
+        "key": "Ports",
+        "value": "1x USB-C"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555016",
+        "customerId": "a3e23b0f-0b16-4b45-8f2c-f2b27b6af9e1",
+        "productId": "5f06a7b8-d9ea-4678-9012-f5a6b7c8d9ea",
+        "score": 4.3,
+        "message": "Fast charging for Smartphone X."
+      }
+    ]
+  },
+  {
+    "productId": "6a17b8c9-ea0b-4789-0123-06a7b8c9ea0b",
+    "name": "Tablet M 11\"",
+    "price": 399.0,
+    "datCreation": "2024-06-16T08:50:00Z",
+    "datUpdate": null,
+    "description": "11-inch tablet with stylus support and quad speakers.",
+    "imageUrl": "https://example.com/images/tablet-m-11.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555021",
+        "productId": "6a17b8c9-ea0b-4789-0123-06a7b8c9ea0b",
+        "key": "Display",
+        "value": "11 inch IPS 120Hz"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555022",
+        "productId": "6a17b8c9-ea0b-4789-0123-06a7b8c9ea0b",
+        "key": "Storage",
+        "value": "128GB"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555017",
+        "customerId": "b7c2a0e1-4d7f-4c38-8fb8-0a1e2b3c4d5e",
+        "productId": "6a17b8c9-ea0b-4789-0123-06a7b8c9ea0b",
+        "score": 4.4,
+        "message": "Great for media and notes."
+      }
+    ]
+  },
+  {
+    "productId": "7b28c9da-0b1c-489a-1234-17b8c9ea0b1c",
+    "name": "Stylus Pen M (for Tablet M)",
+    "price": 49.99,
+    "datCreation": "2024-06-16T09:20:00Z",
+    "datUpdate": null,
+    "description": "Low-latency stylus designed for Tablet M.",
+    "imageUrl": "https://example.com/images/stylus-pen-m.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555023",
+        "productId": "7b28c9da-0b1c-489a-1234-17b8c9ea0b1c",
+        "key": "Latency",
+        "value": "9ms"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555024",
+        "productId": "7b28c9da-0b1c-489a-1234-17b8c9ea0b1c",
+        "key": "Compatibility",
+        "value": "Tablet M 11\""
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555018",
+        "customerId": "1e2f3a4b-5c6d-47e8-9f01-2a3b4c5d6e7f",
+        "productId": "7b28c9da-0b1c-489a-1234-17b8c9ea0b1c",
+        "score": 4.7,
+        "message": "Perfect pairing with Tablet M."
+      }
+    ]
+  },
+  {
+    "productId": "8c39d0eb-1c2d-49ab-2345-28c9ea0b1c2d",
+    "name": "E‑reader Light",
+    "price": 129.0,
+    "datCreation": "2024-06-17T07:35:00Z",
+    "datUpdate": null,
+    "description": "Compact e‑reader with adjustable warm front light.",
+    "imageUrl": "https://example.com/images/ereader-light.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555025",
+        "productId": "8c39d0eb-1c2d-49ab-2345-28c9ea0b1c2d",
+        "key": "Display",
+        "value": "6 inch E‑ink"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555026",
+        "productId": "8c39d0eb-1c2d-49ab-2345-28c9ea0b1c2d",
+        "key": "Storage",
+        "value": "8GB"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555019",
+        "customerId": "9a8b7c6d-5e4f-4321-a098-7b6c5d4e3f2a",
+        "productId": "8c39d0eb-1c2d-49ab-2345-28c9ea0b1c2d",
+        "score": 4.2,
+        "message": "Eye-friendly reading experience."
+      }
+    ]
+  },
+  {
+    "productId": "9d4ae1fc-2d3e-4abc-3456-39ea0b1c2d3e",
+    "name": "External SSD 1TB",
+    "price": 119.0,
+    "datCreation": "2024-06-17T10:10:00Z",
+    "datUpdate": null,
+    "description": "Portable NVMe SSD with USB 3.2 Gen 2 performance.",
+    "imageUrl": "https://example.com/images/external-ssd-1tb.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555027",
+        "productId": "9d4ae1fc-2d3e-4abc-3456-39ea0b1c2d3e",
+        "key": "Capacity",
+        "value": "1TB"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555028",
+        "productId": "9d4ae1fc-2d3e-4abc-3456-39ea0b1c2d3e",
+        "key": "Interface",
+        "value": "USB-C 10Gbps"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555020",
+        "customerId": "7f6e5d4c-3b2a-41a0-8c9d-0e1f2a3b4c5d",
+        "productId": "9d4ae1fc-2d3e-4abc-3456-39ea0b1c2d3e",
+        "score": 4.6,
+        "message": "Fast transfers and compact."
+      }
+    ]
+  },
+  {
+    "productId": "0e5bf20d-3e4f-4bcd-4567-4ae0b1c2d3e4",
+    "name": "Gaming Mouse Pad XL",
+    "price": 19.99,
+    "datCreation": "2024-06-18T08:05:00Z",
+    "datUpdate": null,
+    "description": "Large extended mouse pad with stitched edges.",
+    "imageUrl": "https://example.com/images/mouse-pad-xl.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555029",
+        "productId": "0e5bf20d-3e4f-4bcd-4567-4ae0b1c2d3e4",
+        "key": "Size",
+        "value": "900x400mm"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555502a",
+        "productId": "0e5bf20d-3e4f-4bcd-4567-4ae0b1c2d3e4",
+        "key": "Surface",
+        "value": "Micro-textured cloth"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555021",
+        "customerId": "2e1d0c9b-8a7f-4e6d-9c8b-7a6f5e4d3c2b",
+        "productId": "0e5bf20d-3e4f-4bcd-4567-4ae0b1c2d3e4",
+        "score": 4.5,
+        "message": "Smooth and durable."
+      }
+    ]
+  },
+  {
+    "productId": "1f6c021e-4f50-4cde-5678-5be1c2d3e4f5",
+    "name": "Office Desk Lamp",
+    "price": 39.99,
+    "datCreation": "2024-06-18T09:30:00Z",
+    "datUpdate": null,
+    "description": "LED desk lamp with adjustable color temperature.",
+    "imageUrl": "https://example.com/images/office-desk-lamp.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555502b",
+        "productId": "1f6c021e-4f50-4cde-5678-5be1c2d3e4f5",
+        "key": "Color Temp",
+        "value": "2700K-6500K"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555502c",
+        "productId": "1f6c021e-4f50-4cde-5678-5be1c2d3e4f5",
+        "key": "Brightness",
+        "value": "800 lm"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555022",
+        "customerId": "3f2e1d0c-9b8a-4f6e-8c9d-7a6b5c4d3e2f",
+        "productId": "1f6c021e-4f50-4cde-5678-5be1c2d3e4f5",
+        "score": 4.1,
+        "message": "Bright and flexible arm."
+      }
+    ]
+  },
+  {
+    "productId": "207d132f-5061-4def-6789-6ce2d3e4f5a6",
+    "name": "Action Camera 4K",
+    "price": 199.0,
+    "datCreation": "2024-06-19T08:25:00Z",
+    "datUpdate": null,
+    "description": "Waterproof action cam with image stabilization.",
+    "imageUrl": "https://example.com/images/action-cam-4k.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555502d",
+        "productId": "207d132f-5061-4def-6789-6ce2d3e4f5a6",
+        "key": "Video",
+        "value": "4K 60fps"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555502e",
+        "productId": "207d132f-5061-4def-6789-6ce2d3e4f5a6",
+        "key": "Waterproof",
+        "value": "10m (without case)"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555023",
+        "customerId": "4a3b2c1d-0e9f-48d7-8c6b-5a4e3d2c1b0a",
+        "productId": "207d132f-5061-4def-6789-6ce2d3e4f5a6",
+        "score": 4.3,
+        "message": "Solid stabilization for biking."
+      }
+    ]
+  },
+  {
+    "productId": "318e2430-6172-4f01-7890-7df3e4f5a6b7",
+    "name": "Drone Mini",
+    "price": 299.0,
+    "datCreation": "2024-06-19T10:45:00Z",
+    "datUpdate": null,
+    "description": "Compact drone under 250g with 2.7K camera.",
+    "imageUrl": "https://example.com/images/drone-mini.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555502f",
+        "productId": "318e2430-6172-4f01-7890-7df3e4f5a6b7",
+        "key": "Weight",
+        "value": "249g"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555030",
+        "productId": "318e2430-6172-4f01-7890-7df3e4f5a6b7",
+        "key": "Flight Time",
+        "value": "31 minutes"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555024",
+        "customerId": "5b4c3d2e-1f0a-4e8d-9c7b-6a5e4d3c2b1a",
+        "productId": "318e2430-6172-4f01-7890-7df3e4f5a6b7",
+        "score": 4.5,
+        "message": "Easy to fly and stable."
+      }
+    ]
+  },
+  {
+    "productId": "429f3541-7283-4012-8901-8ef4f5a6b7c8",
+    "name": "Smart Light Bulb (2‑Pack)",
+    "price": 24.0,
+    "datCreation": "2024-06-20T07:15:00Z",
+    "datUpdate": null,
+    "description": "Wi‑Fi multicolor bulbs compatible with Smart Home Hub.",
+    "imageUrl": "https://example.com/images/smart-bulb-2pack.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555031",
+        "productId": "429f3541-7283-4012-8901-8ef4f5a6b7c8",
+        "key": "Base",
+        "value": "E26"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555032",
+        "productId": "429f3541-7283-4012-8901-8ef4f5a6b7c8",
+        "key": "Brightness",
+        "value": "800 lm"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555025",
+        "customerId": "6c5d4e3f-2a1b-40c9-8d7e-5a4b3c2d1e0f",
+        "productId": "429f3541-7283-4012-8901-8ef4f5a6b7c8",
+        "score": 4.2,
+        "message": "Integrates well with automations."
+      }
+    ]
+  },
+  {
+    "productId": "53a04652-8394-4123-9012-9ff5a6b7c8d9",
+    "name": "Laptop Stand Aluminum",
+    "price": 45.0,
+    "datCreation": "2024-06-20T09:00:00Z",
+    "datUpdate": null,
+    "description": "Ergonomic stand to elevate your laptop for better posture.",
+    "imageUrl": "https://example.com/images/laptop-stand-aluminum.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555033",
+        "productId": "53a04652-8394-4123-9012-9ff5a6b7c8d9",
+        "key": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555034",
+        "productId": "53a04652-8394-4123-9012-9ff5a6b7c8d9",
+        "key": "Angle",
+        "value": "Adjustable 15°-30°"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555026",
+        "customerId": "7d6e5f4a-3b2c-41d0-9e8f-6a5b4c3d2e1f",
+        "productId": "53a04652-8394-4123-9012-9ff5a6b7c8d9",
+        "score": 4.4,
+        "message": "Sturdy and sleek."
+      }
+    ]
+  },
+  {
+    "productId": "64b15763-94a5-4234-9123-af06b7c8d9ea",
+    "name": "Portable Power Bank 20,000mAh",
+    "price": 49.0,
+    "datCreation": "2024-06-21T08:40:00Z",
+    "datUpdate": null,
+    "description": "High-capacity power bank with PD and QC support.",
+    "imageUrl": "https://example.com/images/power-bank-20000.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555035",
+        "productId": "64b15763-94a5-4234-9123-af06b7c8d9ea",
+        "key": "Capacity",
+        "value": "20,000mAh"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555036",
+        "productId": "64b15763-94a5-4234-9123-af06b7c8d9ea",
+        "key": "Output",
+        "value": "USB-C PD 20W"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555027",
+        "customerId": "8e7f6a5b-4c3d-42e1-9f0e-7a6b5c4d3e2f",
+        "productId": "64b15763-94a5-4234-9123-af06b7c8d9ea",
+        "score": 4.3,
+        "message": "Charges phone multiple times."
+      }
+    ]
+  },
+  {
+    "productId": "75c26874-a5b6-4345-9234-b017c8d9eaf0",
+    "name": "Smartphone X Screen Protector (3‑Pack)",
+    "price": 14.99,
+    "datCreation": "2024-06-21T09:10:00Z",
+    "datUpdate": null,
+    "description": "Tempered glass protectors designed for Smartphone X.",
+    "imageUrl": "https://example.com/images/screen-protector-x-3pack.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555037",
+        "productId": "75c26874-a5b6-4345-9234-b017c8d9eaf0",
+        "key": "Hardness",
+        "value": "9H"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555038",
+        "productId": "75c26874-a5b6-4345-9234-b017c8d9eaf0",
+        "key": "Coating",
+        "value": "Oleophobic"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555028",
+        "customerId": "9f0e8d7c-6b5a-4c3d-2e1f-0a9b8c7d6e5f",
+        "productId": "75c26874-a5b6-4345-9234-b017c8d9eaf0",
+        "score": 4.6,
+        "message": "Easy install and bubble-free."
+      }
+    ]
+  },
+  {
+    "productId": "86d37985-b6c7-4456-9345-c128d9eaf001",
+    "name": "Laptop Pro Docking Station",
+    "price": 189.0,
+    "datCreation": "2024-06-22T07:55:00Z",
+    "datUpdate": null,
+    "description": "Thunderbolt docking station optimized for Laptop Pro.",
+    "imageUrl": "https://example.com/images/laptop-pro-dock.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555039",
+        "productId": "86d37985-b6c7-4456-9345-c128d9eaf001",
+        "key": "Ports",
+        "value": "TB, HDMI, DP, Ethernet, USB-A"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555503a",
+        "productId": "86d37985-b6c7-4456-9345-c128d9eaf001",
+        "key": "Power Delivery",
+        "value": "90W"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555029",
+        "customerId": "0a1b2c3d-4e5f-4061-8a9b-bc0d1e2f3a4b",
+        "productId": "86d37985-b6c7-4456-9345-c128d9eaf001",
+        "score": 4.5,
+        "message": "One cable convenience."
+      }
+    ]
+  },
+  {
+    "productId": "97e48a96-c7d8-4567-9456-d239eaf00112",
+    "name": "Ergonomic Office Chair",
+    "price": 259.0,
+    "datCreation": "2024-06-22T10:25:00Z",
+    "datUpdate": null,
+    "description": "Adjustable lumbar support and breathable mesh back.",
+    "imageUrl": "https://example.com/images/ergonomic-chair.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555503b",
+        "productId": "97e48a96-c7d8-4567-9456-d239eaf00112",
+        "key": "Material",
+        "value": "Mesh + Nylon"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555503c",
+        "productId": "97e48a96-c7d8-4567-9456-d239eaf00112",
+        "key": "Max Load",
+        "value": "120kg"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555030",
+        "customerId": "12ab34cd-56ef-4789-90ab-cd12ef34ab56",
+        "productId": "97e48a96-c7d8-4567-9456-d239eaf00112",
+        "score": 4.3,
+        "message": "Comfortable for long sessions."
+      }
+    ]
+  },
+  {
+    "productId": "a8f59ba7-d8e9-4678-9567-e34af0011223",
+    "name": "Wireless Presenter",
+    "price": 29.0,
+    "datCreation": "2024-06-23T08:05:00Z",
+    "datUpdate": null,
+    "description": "Presenter with laser pointer and USB receiver.",
+    "imageUrl": "https://example.com/images/wireless-presenter.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555503d",
+        "productId": "a8f59ba7-d8e9-4678-9567-e34af0011223",
+        "key": "Range",
+        "value": "30m"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555503e",
+        "productId": "a8f59ba7-d8e9-4678-9567-e34af0011223",
+        "key": "Battery",
+        "value": "AAA x2"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555031",
+        "customerId": "23bc45de-67f8-4890-a1bc-de23f456ab78",
+        "productId": "a8f59ba7-d8e9-4678-9567-e34af0011223",
+        "score": 4.1,
+        "message": "Handy for meetings."
+      }
+    ]
+  },
+  {
+    "productId": "b906acb8-e9fa-4789-9678-f45b01122334",
+    "name": "Laptop Backpack 17\"",
+    "price": 69.0,
+    "datCreation": "2024-06-23T09:30:00Z",
+    "datUpdate": null,
+    "description": "Water-resistant backpack with padded 17-inch sleeve.",
+    "imageUrl": "https://example.com/images/laptop-backpack-17.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-55555555503f",
+        "productId": "b906acb8-e9fa-4789-9678-f45b01122334",
+        "key": "Capacity",
+        "value": "25L"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555040",
+        "productId": "b906acb8-e9fa-4789-9678-f45b01122334",
+        "key": "Material",
+        "value": "Polyester (water-resistant)"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555032",
+        "customerId": "34cd56ef-7890-4ab1-b2cd-ef34a567bc89",
+        "productId": "b906acb8-e9fa-4789-9678-f45b01122334",
+        "score": 4.2,
+        "message": "Plenty of compartments."
+      }
+    ]
+  },
+  {
+    "productId": "ca17bdc9-fa0b-489a-9789-061c12233445",
+    "name": "Wireless Keyboard + Mouse Combo",
+    "price": 54.99,
+    "datCreation": "2024-06-24T08:20:00Z",
+    "datUpdate": null,
+    "description": "Silent keys and optical mouse with one USB receiver.",
+    "imageUrl": "https://example.com/images/wireless-combo.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555041",
+        "productId": "ca17bdc9-fa0b-489a-9789-061c12233445",
+        "key": "Connectivity",
+        "value": "2.4GHz USB dongle"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555042",
+        "productId": "ca17bdc9-fa0b-489a-9789-061c12233445",
+        "key": "Battery",
+        "value": "AA/AAA"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555033",
+        "customerId": "45de67f8-90ab-4bc1-c2de-f345a6789b0c",
+        "productId": "ca17bdc9-fa0b-489a-9789-061c12233445",
+        "score": 4.0,
+        "message": "Reliable and quiet."
+      }
+    ]
+  },
+  {
+    "productId": "db28ceda-0b1c-49ab-989a-172d23344556",
+    "name": "Laptop Privacy Screen 15\"",
+    "price": 34.0,
+    "datCreation": "2024-06-24T10:10:00Z",
+    "datUpdate": null,
+    "description": "Magnetic privacy filter for 15-inch displays.",
+    "imageUrl": "https://example.com/images/privacy-screen-15.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555043",
+        "productId": "db28ceda-0b1c-49ab-989a-172d23344556",
+        "key": "Compatibility",
+        "value": "15-inch laptops"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555044",
+        "productId": "db28ceda-0b1c-49ab-989a-172d23344556",
+        "key": "Attachment",
+        "value": "Magnetic"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555034",
+        "customerId": "56ef78a9-0bcd-4c1d-d2ef-0567a89bc0de",
+        "productId": "db28ceda-0b1c-49ab-989a-172d23344556",
+        "score": 4.1,
+        "message": "Effective in public spaces."
+      }
+    ]
+  },
+  {
+    "productId": "db28ceda-0b1c-49ab-989a-172d23344556",
+    "name": "Laptop Privacy Screen 15\"",
+    "price": 34.0,
+    "datCreation": "2024-06-24T10:10:00Z",
+    "datUpdate": null,
+    "description": "Magnetic privacy filter for 15-inch displays.",
+    "imageUrl": "https://example.com/images/privacy-screen-15.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555043",
+        "productId": "db28ceda-0b1c-49ab-989a-172d23344556",
+        "key": "Compatibility",
+        "value": "15-inch laptops"
+      },
+      {
+        "specificationId": "11111111-2222-3333-4444-555555555044",
+        "productId": "db28ceda-0b1c-49ab-989a-172d23344556",
+        "key": "Attachment",
+        "value": "Magnetic"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "a1111111-b222-4c33-d444-e55555555034",
+        "customerId": "56ef78a9-0bcd-4c1d-d2ef-0567a89bc0de",
+        "productId": "db28ceda-0b1c-49ab-989a-172d23344556",
+        "score": 4.1,
+        "message": "Effective in public spaces."
+      }
+    ]
+  },
+  {
+    "productId": "1a2b3c4d-55ee-4666-8899-0011223344aa",
+    "name": "Artisanal Coffee Beans 1kg",
+    "price": 24.9,
+    "datCreation": "2024-06-25T08:00:00Z",
+    "datUpdate": null,
+    "description": "Single-origin specialty coffee beans roasted weekly.",
+    "imageUrl": "https://example.com/images/coffee-beans-1kg.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000001",
+        "productId": "1a2b3c4d-55ee-4666-8899-0011223344aa",
+        "key": "Roast Level",
+        "value": "Medium"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000002",
+        "productId": "1a2b3c4d-55ee-4666-8899-0011223344aa",
+        "key": "Origin",
+        "value": "Ethiopia"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000003",
+        "productId": "1a2b3c4d-55ee-4666-8899-0011223344aa",
+        "key": "Process",
+        "value": "Washed"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-000000000001",
+        "customerId": "a0102030-4050-6070-8090-a0b0c0d0e0f0",
+        "productId": "1a2b3c4d-55ee-4666-8899-0011223344aa",
+        "score": 4.7,
+        "message": "Bright flavor with floral notes."
+      }
+    ]
+  },
+  {
+    "productId": "2b3c4d5e-66ff-4777-99aa-1122334455bb",
+    "name": "Yoga Mat Pro",
+    "price": 39.5,
+    "datCreation": "2024-06-25T09:10:00Z",
+    "datUpdate": null,
+    "description": "High‑grip yoga mat suitable for hot yoga and pilates.",
+    "imageUrl": "https://example.com/images/yoga-mat-pro.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000004",
+        "productId": "2b3c4d5e-66ff-4777-99aa-1122334455bb",
+        "key": "Thickness",
+        "value": "6mm"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000005",
+        "productId": "2b3c4d5e-66ff-4777-99aa-1122334455bb",
+        "key": "Length",
+        "value": "183cm"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000006",
+        "productId": "2b3c4d5e-66ff-4777-99aa-1122334455bb",
+        "key": "Material Type",
+        "value": "TPE"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-000000000002",
+        "customerId": "b1203040-5060-7080-90a0-b0c0d0e0f001",
+        "productId": "2b3c4d5e-66ff-4777-99aa-1122334455bb",
+        "score": 4.4,
+        "message": "Doesn’t slip, easy to clean."
+      }
+    ]
+  },
+  {
+    "productId": "3c4d5e6f-7700-4888-aabb-2233445566cc",
+    "name": "Mountain Bike Helmet",
+    "price": 89.9,
+    "datCreation": "2024-06-25T10:20:00Z",
+    "datUpdate": null,
+    "description": "Lightweight MTB helmet with extended rear coverage.",
+    "imageUrl": "https://example.com/images/mtb-helmet.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000007",
+        "productId": "3c4d5e6f-7700-4888-aabb-2233445566cc",
+        "key": "Certification",
+        "value": "CPSC/EN1078"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000008",
+        "productId": "3c4d5e6f-7700-4888-aabb-2233445566cc",
+        "key": "Ventilation",
+        "value": "18 vents"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000009",
+        "productId": "3c4d5e6f-7700-4888-aabb-2233445566cc",
+        "key": "Size Range",
+        "value": "54–61 cm"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-000000000003",
+        "customerId": "c2304050-6070-8090-a0b0-c0d0e0f00112",
+        "productId": "3c4d5e6f-7700-4888-aabb-2233445566cc",
+        "score": 4.6,
+        "message": "Comfortable and well‑ventilated."
+      }
+    ]
+  },
+  {
+    "productId": "4d5e6f70-8811-4999-bbcc-3344556677dd",
+    "name": "Ceramic Vase Handmade",
+    "price": 59.0,
+    "datCreation": "2024-06-26T08:30:00Z",
+    "datUpdate": null,
+    "description": "Hand‑thrown ceramic vase with matte glaze finish.",
+    "imageUrl": "https://example.com/images/ceramic-vase-handmade.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000000a",
+        "productId": "4d5e6f70-8811-4999-bbcc-3344556677dd",
+        "key": "Height",
+        "value": "28 cm"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000000b",
+        "productId": "4d5e6f70-8811-4999-bbcc-3344556677dd",
+        "key": "Finish",
+        "value": "Matte"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000000c",
+        "productId": "4d5e6f70-8811-4999-bbcc-3344556677dd",
+        "key": "Style",
+        "value": "Minimalist"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-000000000004",
+        "customerId": "d3405060-7080-90a0-b0c0-d0e0f0011223",
+        "productId": "4d5e6f70-8811-4999-bbcc-3344556677dd",
+        "score": 4.5,
+        "message": "Beautiful craftsmanship."
+      }
+    ]
+  },
+  {
+    "productId": "5e6f7081-9922-4aaa-ccdd-4455667788ee",
+    "name": "Orthopedic Pet Bed",
+    "price": 74.9,
+    "datCreation": "2024-06-26T09:15:00Z",
+    "datUpdate": null,
+    "description": "Memory foam pet bed with removable washable cover.",
+    "imageUrl": "https://example.com/images/orthopedic-pet-bed.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000000d",
+        "productId": "5e6f7081-9922-4aaa-ccdd-4455667788ee",
+        "key": "Size",
+        "value": "Large"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000000e",
+        "productId": "5e6f7081-9922-4aaa-ccdd-4455667788ee",
+        "key": "Fill",
+        "value": "Memory Foam"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000000f",
+        "productId": "5e6f7081-9922-4aaa-ccdd-4455667788ee",
+        "key": "Cover",
+        "value": "Removable"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-000000000005",
+        "customerId": "e4506070-8090-a0b0-c0d0-e0f001122334",
+        "productId": "5e6f7081-9922-4aaa-ccdd-4455667788ee",
+        "score": 4.3,
+        "message": "My dog loves it."
+      }
+    ]
+  },
+  {
+    "productId": "6f708192-aa33-4bbb-ddee-5566778899ff",
+    "name": "Chef Knife 8-inch",
+    "price": 69.0,
+    "datCreation": "2024-06-27T07:50:00Z",
+    "datUpdate": null,
+    "description": "All‑purpose chef’s knife with ergonomic handle.",
+    "imageUrl": "https://example.com/images/chef-knife-8in.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000010",
+        "productId": "6f708192-aa33-4bbb-ddee-5566778899ff",
+        "key": "Steel",
+        "value": "X50CrMoV15"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000011",
+        "productId": "6f708192-aa33-4bbb-ddee-5566778899ff",
+        "key": "Blade Length",
+        "value": "8 inch"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000012",
+        "productId": "6f708192-aa33-4bbb-ddee-5566778899ff",
+        "key": "Handle",
+        "value": "Pakkawood"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-000000000006",
+        "customerId": "f5607080-90a0-b0c0-d0e0-f00112233445",
+        "productId": "6f708192-aa33-4bbb-ddee-5566778899ff",
+        "score": 4.6,
+        "message": "Sharp out of the box."
+      }
+    ]
+  },
+  {
+    "productId": "708192a3-bb44-4ccc-eeff-66778899a000",
+    "name": "Strategy Board Game",
+    "price": 49.9,
+    "datCreation": "2024-06-27T09:05:00Z",
+    "datUpdate": null,
+    "description": "Euro‑style strategy game with modular board and resource trading.",
+    "imageUrl": "https://example.com/images/strategy-board-game.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000013",
+        "productId": "708192a3-bb44-4ccc-eeff-66778899a000",
+        "key": "Players",
+        "value": "2–5"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000014",
+        "productId": "708192a3-bb44-4ccc-eeff-66778899a000",
+        "key": "Playtime",
+        "value": "60–90 min"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000015",
+        "productId": "708192a3-bb44-4ccc-eeff-66778899a000",
+        "key": "Age",
+        "value": "12+"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-000000000007",
+        "customerId": "06172839-4a5b-4c6d-8e9f-a0b1c2d3e4f5",
+        "productId": "708192a3-bb44-4ccc-eeff-66778899a000",
+        "score": 4.5,
+        "message": "Great replayability."
+      }
+    ]
+  },
+  {
+    "productId": "8192a3b4-cc55-4ddd-ff00-778899a0b111",
+    "name": "Scented Candle Set (4)",
+    "price": 22.0,
+    "datCreation": "2024-06-28T08:30:00Z",
+    "datUpdate": null,
+    "description": "Set of four soy candles with seasonal fragrances.",
+    "imageUrl": "https://example.com/images/scented-candle-set.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000016",
+        "productId": "8192a3b4-cc55-4ddd-ff00-778899a0b111",
+        "key": "Fragrance",
+        "value": "Citrus, Lavender, Vanilla, Pine"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000017",
+        "productId": "8192a3b4-cc55-4ddd-ff00-778899a0b111",
+        "key": "Burn Time",
+        "value": "20 h each"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000018",
+        "productId": "8192a3b4-cc55-4ddd-ff00-778899a0b111",
+        "key": "Wax",
+        "value": "Soy"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-000000000008",
+        "customerId": "1728394a-5b6c-4d7e-8f90-a1b2c3d4e5f6",
+        "productId": "8192a3b4-cc55-4ddd-ff00-778899a0b111",
+        "score": 4.2,
+        "message": "Pleasant scents, nice gift."
+      }
+    ]
+  },
+  {
+    "productId": "92a3b4c5-dd66-4eee-0011-8899a0b1c222",
+    "name": "Gardening Tool Set (8 pcs)",
+    "price": 34.5,
+    "datCreation": "2024-06-28T09:45:00Z",
+    "datUpdate": null,
+    "description": "Complete gardening kit with storage tote.",
+    "imageUrl": "https://example.com/images/gardening-tool-set-8.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000019",
+        "productId": "92a3b4c5-dd66-4eee-0011-8899a0b1c222",
+        "key": "Pieces",
+        "value": "8"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000001a",
+        "productId": "92a3b4c5-dd66-4eee-0011-8899a0b1c222",
+        "key": "Tool Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000001b",
+        "productId": "92a3b4c5-dd66-4eee-0011-8899a0b1c222",
+        "key": "Storage",
+        "value": "Canvas Tote"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-000000000009",
+        "customerId": "28394a5b-6c7d-4e8f-9012-a3b4c5d6e7f8",
+        "productId": "92a3b4c5-dd66-4eee-0011-8899a0b1c222",
+        "score": 4.1,
+        "message": "Good starter kit."
+      }
+    ]
+  },
+  {
+    "productId": "a3b4c5d6-ee77-4fff-1122-99a0b1c2d333",
+    "name": "Hardcover Journal A5",
+    "price": 12.9,
+    "datCreation": "2024-06-29T07:20:00Z",
+    "datUpdate": null,
+    "description": "A5 dotted journal with lay‑flat binding.",
+    "imageUrl": "https://example.com/images/hardcover-journal-a5.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000001c",
+        "productId": "a3b4c5d6-ee77-4fff-1122-99a0b1c2d333",
+        "key": "Pages",
+        "value": "192"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000001d",
+        "productId": "a3b4c5d6-ee77-4fff-1122-99a0b1c2d333",
+        "key": "Paper GSM",
+        "value": "100"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000001e",
+        "productId": "a3b4c5d6-ee77-4fff-1122-99a0b1c2d333",
+        "key": "Binding",
+        "value": "Smyth‑sewn"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-00000000000a",
+        "customerId": "394a5b6c-7d8e-4901-92a3-b4c5d6e7f809",
+        "productId": "a3b4c5d6-ee77-4fff-1122-99a0b1c2d333",
+        "score": 4.4,
+        "message": "No ghosting, lies flat."
+      }
+    ]
+  },
+  {
+    "productId": "b4c5d6e7-ff88-4000-2233-a0b1c2d3e444",
+    "name": "Outdoor Hammock",
+    "price": 29.9,
+    "datCreation": "2024-06-29T08:55:00Z",
+    "datUpdate": null,
+    "description": "Lightweight camping hammock with straps included.",
+    "imageUrl": "https://example.com/images/outdoor-hammock.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000001f",
+        "productId": "b4c5d6e7-ff88-4000-2233-a0b1c2d3e444",
+        "key": "Capacity",
+        "value": "200 kg"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000020",
+        "productId": "b4c5d6e7-ff88-4000-2233-a0b1c2d3e444",
+        "key": "Fabric",
+        "value": "Parachute Nylon"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000021",
+        "productId": "b4c5d6e7-ff88-4000-2233-a0b1c2d3e444",
+        "key": "Suspension",
+        "value": "Tree Straps"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-00000000000b",
+        "customerId": "4a5b6c7d-8e90-4012-93a4-b5c6d7e8f910",
+        "productId": "b4c5d6e7-ff88-4000-2233-a0b1c2d3e444",
+        "score": 4.3,
+        "message": "Easy setup, comfy."
+      }
+    ]
+  },
+  {
+    "productId": "c5d6e7f8-0099-4111-3344-b1c2d3e4f555",
+    "name": "Hiking Backpack 40L",
+    "price": 79.0,
+    "datCreation": "2024-06-30T07:40:00Z",
+    "datUpdate": null,
+    "description": "Day‑pack with ventilated back panel and rain cover.",
+    "imageUrl": "https://example.com/images/hiking-backpack-40l.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000022",
+        "productId": "c5d6e7f8-0099-4111-3344-b1c2d3e4f555",
+        "key": "Capacity",
+        "value": "40 L"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000023",
+        "productId": "c5d6e7f8-0099-4111-3344-b1c2d3e4f555",
+        "key": "Frame",
+        "value": "Internal"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000024",
+        "productId": "c5d6e7f8-0099-4111-3344-b1c2d3e4f555",
+        "key": "Waterproof Rating",
+        "value": "Included rain cover"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-00000000000c",
+        "customerId": "5b6c7d8e-9091-4213-a4b5-c6d7e8f90112",
+        "productId": "c5d6e7f8-0099-4111-3344-b1c2d3e4f555",
+        "score": 4.2,
+        "message": "Good support and pockets."
+      }
+    ]
+  },
+  {
+    "productId": "d6e7f809-11aa-4222-4455-c2d3e4f5a666",
+    "name": "Gourmet Spice Kit",
+    "price": 27.5,
+    "datCreation": "2024-06-30T09:10:00Z",
+    "datUpdate": null,
+    "description": "Assortment of premium spices in reusable tins.",
+    "imageUrl": "https://example.com/images/gourmet-spice-kit.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000025",
+        "productId": "d6e7f809-11aa-4222-4455-c2d3e4f5a666",
+        "key": "Varieties",
+        "value": "8"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000026",
+        "productId": "d6e7f809-11aa-4222-4455-c2d3e4f5a666",
+        "key": "Heat Level",
+        "value": "Mild to Hot"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000027",
+        "productId": "d6e7f809-11aa-4222-4455-c2d3e4f5a666",
+        "key": "Origin Region",
+        "value": "Global"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-00000000000d",
+        "customerId": "6c7d8e90-9192-4314-b5c6-d7e8f9011223",
+        "productId": "d6e7f809-11aa-4222-4455-c2d3e4f5a666",
+        "score": 4.3,
+        "message": "Great flavors for cooking."
+      }
+    ]
+  },
+  {
+    "productId": "e7f8091a-22bb-4333-5566-d3e4f5a6b777",
+    "name": "Watercolor Paint Set",
+    "price": 31.0,
+    "datCreation": "2024-07-01T08:00:00Z",
+    "datUpdate": null,
+    "description": "Artist‑grade watercolor pans with metal palette.",
+    "imageUrl": "https://example.com/images/watercolor-paint-set.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000028",
+        "productId": "e7f8091a-22bb-4333-5566-d3e4f5a6b777",
+        "key": "Colors",
+        "value": "24"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-000000000029",
+        "productId": "e7f8091a-22bb-4333-5566-d3e4f5a6b777",
+        "key": "Type",
+        "value": "Half Pan"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000002a",
+        "productId": "e7f8091a-22bb-4333-5566-d3e4f5a6b777",
+        "key": "Lightfastness",
+        "value": "High"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-00000000000e",
+        "customerId": "7d8e9091-9293-4415-c6d7-e8f901122334",
+        "productId": "e7f8091a-22bb-4333-5566-d3e4f5a6b777",
+        "score": 4.5,
+        "message": "Vibrant colors, good mixing."
+      }
+    ]
+  },
+  {
+    "productId": "f8091a2b-33cc-4444-6677-e4f5a6b7c888",
+    "name": "Acoustic Guitar Starter",
+    "price": 119.0,
+    "datCreation": "2024-07-01T09:30:00Z",
+    "datUpdate": null,
+    "description": "Dreadnought acoustic guitar kit with gig bag and picks.",
+    "imageUrl": "https://example.com/images/acoustic-guitar-starter.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000002b",
+        "productId": "f8091a2b-33cc-4444-6677-e4f5a6b7c888",
+        "key": "Top Wood",
+        "value": "Spruce"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000002c",
+        "productId": "f8091a2b-33cc-4444-6677-e4f5a6b7c888",
+        "key": "Scale Length",
+        "value": "25.5 in"
+      },
+      {
+        "specificationId": "20000000-0000-0000-0000-00000000002d",
+        "productId": "f8091a2b-33cc-4444-6677-e4f5a6b7c888",
+        "key": "Included",
+        "value": "Gig bag, tuner, picks"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "b2000000-0000-0000-0000-00000000000f",
+        "customerId": "8e909192-9394-4516-d7e8-f90112233445",
+        "productId": "f8091a2b-33cc-4444-6677-e4f5a6b7c888",
+        "score": 4.1,
+        "message": "Good beginner bundle."
+      }
+    ]
+  },
+  {
+    "productId": "11111111-aaaa-4bbb-cccc-000000000001",
+    "name": "Smartphone X Lite",
+    "price": 749.0,
+    "datCreation": "2024-07-02T08:00:00Z",
+    "datUpdate": null,
+    "description": "Compact version of Smartphone X with efficient hardware.",
+    "imageUrl": "https://example.com/images/smartphone-x-lite.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "21111111-aaaa-4bbb-cccc-000000000001",
+        "productId": "11111111-aaaa-4bbb-cccc-000000000001",
+        "key": "Display",
+        "value": "6.1 inch OLED"
+      },
+      {
+        "specificationId": "21111111-aaaa-4bbb-cccc-000000000002",
+        "productId": "11111111-aaaa-4bbb-cccc-000000000001",
+        "key": "Battery",
+        "value": "3200mAh"
+      },
+      {
+        "specificationId": "21111111-aaaa-4bbb-cccc-000000000003",
+        "productId": "11111111-aaaa-4bbb-cccc-000000000001",
+        "key": "Camera",
+        "value": "Dual 12MP"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "31111111-aaaa-4bbb-cccc-000000000001",
+        "customerId": "8a5b1b55-0b2f-4b5e-9b6e-2c2f8f7d5a11",
+        "productId": "11111111-aaaa-4bbb-cccc-000000000001",
+        "score": 4.2,
+        "message": "Great size and performance."
+      }
+    ]
+  },
+  {
+    "productId": "11111111-bbbb-4ccc-dddd-000000000002",
+    "name": "Smartphone X Ultra",
+    "price": 1199.0,
+    "datCreation": "2024-07-02T09:10:00Z",
+    "datUpdate": null,
+    "description": "Flagship Smartphone X with larger LTPO screen and bigger battery.",
+    "imageUrl": "https://example.com/images/smartphone-x-ultra.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "21111111-bbbb-4ccc-dddd-000000000001",
+        "productId": "11111111-bbbb-4ccc-dddd-000000000002",
+        "key": "Display",
+        "value": "6.8 inch LTPO OLED 1-120Hz"
+      },
+      {
+        "specificationId": "21111111-bbbb-4ccc-dddd-000000000002",
+        "productId": "11111111-bbbb-4ccc-dddd-000000000002",
+        "key": "Battery",
+        "value": "5000mAh"
+      },
+      {
+        "specificationId": "21111111-bbbb-4ccc-dddd-000000000003",
+        "productId": "11111111-bbbb-4ccc-dddd-000000000002",
+        "key": "Camera",
+        "value": "Triple 50MP"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "31111111-bbbb-4ccc-dddd-000000000002",
+        "customerId": "79b6e2d1-22c1-4f0a-83aa-1d2c3b4e5f61",
+        "productId": "11111111-bbbb-4ccc-dddd-000000000002",
+        "score": 4.6,
+        "message": "Amazing screen and battery."
+      }
+    ]
+  },
+  {
+    "productId": "22222222-aaaa-4bbb-cccc-000000000003",
+    "name": "Laptop Pro 14 (AMD)",
+    "price": 1699.0,
+    "datCreation": "2024-07-03T08:30:00Z",
+    "datUpdate": null,
+    "description": "14-inch professional laptop powered by Ryzen with integrated RDNA graphics.",
+    "imageUrl": "https://example.com/images/laptop-pro-14-amd.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "22222222-aaaa-4bbb-cccc-000000000001",
+        "productId": "22222222-aaaa-4bbb-cccc-000000000003",
+        "key": "Processor",
+        "value": "AMD Ryzen 7 7840U"
+      },
+      {
+        "specificationId": "22222222-aaaa-4bbb-cccc-000000000002",
+        "productId": "22222222-aaaa-4bbb-cccc-000000000003",
+        "key": "RAM",
+        "value": "16GB LPDDR5"
+      },
+      {
+        "specificationId": "22222222-aaaa-4bbb-cccc-000000000003",
+        "productId": "22222222-aaaa-4bbb-cccc-000000000003",
+        "key": "GPU",
+        "value": "Radeon 780M"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "32222222-aaaa-4bbb-cccc-000000000003",
+        "customerId": "a8c0f29e-3c4c-46f6-9f60-2a8cc0f1f2ab",
+        "productId": "22222222-aaaa-4bbb-cccc-000000000003",
+        "score": 4.4,
+        "message": "Excellent efficiency and quiet."
+      }
+    ]
+  },
+  {
+    "productId": "22222222-bbbb-4ccc-dddd-000000000004",
+    "name": "Laptop Pro 16 Creator",
+    "price": 2499.0,
+    "datCreation": "2024-07-03T10:00:00Z",
+    "datUpdate": null,
+    "description": "16-inch creator-focused laptop with discrete graphics.",
+    "imageUrl": "https://example.com/images/laptop-pro-16-creator.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "22222222-bbbb-4ccc-dddd-000000000001",
+        "productId": "22222222-bbbb-4ccc-dddd-000000000004",
+        "key": "Processor",
+        "value": "Intel Core i9-13900H"
+      },
+      {
+        "specificationId": "22222222-bbbb-4ccc-dddd-000000000002",
+        "productId": "22222222-bbbb-4ccc-dddd-000000000004",
+        "key": "RAM",
+        "value": "32GB DDR5"
+      },
+      {
+        "specificationId": "22222222-bbbb-4ccc-dddd-000000000003",
+        "productId": "22222222-bbbb-4ccc-dddd-000000000004",
+        "key": "GPU",
+        "value": "NVIDIA RTX 4060"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "32222222-bbbb-4ccc-dddd-000000000004",
+        "customerId": "d6e4c1b2-1c2b-4dc1-8f20-1aa2b3c4d5e6",
+        "productId": "22222222-bbbb-4ccc-dddd-000000000004",
+        "score": 4.7,
+        "message": "Great for editing and 3D."
+      }
+    ]
+  },
+  {
+    "productId": "33333333-aaaa-4bbb-cccc-000000000005",
+    "name": "Wireless Earbuds ANC Pro",
+    "price": 199.0,
+    "datCreation": "2024-07-04T08:15:00Z",
+    "datUpdate": null,
+    "description": "Premium earbuds with LDAC and hybrid noise cancellation.",
+    "imageUrl": "https://example.com/images/earbuds-anc-pro.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "23333333-aaaa-4bbb-cccc-000000000001",
+        "productId": "33333333-aaaa-4bbb-cccc-000000000005",
+        "key": "Battery Life",
+        "value": "6 hours + 24 hours case"
+      },
+      {
+        "specificationId": "23333333-aaaa-4bbb-cccc-000000000002",
+        "productId": "33333333-aaaa-4bbb-cccc-000000000005",
+        "key": "Codec",
+        "value": "LDAC, AAC"
+      },
+      {
+        "specificationId": "23333333-aaaa-4bbb-cccc-000000000003",
+        "productId": "33333333-aaaa-4bbb-cccc-000000000005",
+        "key": "ANC",
+        "value": "Hybrid"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "33333333-aaaa-4bbb-cccc-000000000005",
+        "customerId": "2b3c4d5e-6f70-4a8b-9c0d-1e2f3a4b5c6d",
+        "productId": "33333333-aaaa-4bbb-cccc-000000000005",
+        "score": 4.5,
+        "message": "ANC is very effective."
+      }
+    ]
+  },
+  {
+    "productId": "33333333-bbbb-4ccc-dddd-000000000006",
+    "name": "Smartwatch S Rugged",
+    "price": 349.0,
+    "datCreation": "2024-07-04T10:40:00Z",
+    "datUpdate": null,
+    "description": "Rugged smartwatch with enhanced durability and MIP display.",
+    "imageUrl": "https://example.com/images/smartwatch-s-rugged.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "23333333-bbbb-4ccc-dddd-000000000001",
+        "productId": "33333333-bbbb-4ccc-dddd-000000000006",
+        "key": "Display",
+        "value": "1.3 inch MIP"
+      },
+      {
+        "specificationId": "23333333-bbbb-4ccc-dddd-000000000002",
+        "productId": "33333333-bbbb-4ccc-dddd-000000000006",
+        "key": "Water Resistance",
+        "value": "10 ATM"
+      },
+      {
+        "specificationId": "23333333-bbbb-4ccc-dddd-000000000003",
+        "productId": "33333333-bbbb-4ccc-dddd-000000000006",
+        "key": "GPS",
+        "value": "Dual-band"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "33333333-bbbb-4ccc-dddd-000000000006",
+        "customerId": "7c8d9e0f-1a2b-4c3d-8e9f-0a1b2c3d4e5f",
+        "productId": "33333333-bbbb-4ccc-dddd-000000000006",
+        "score": 4.3,
+        "message": "Very durable for hiking."
+      }
+    ]
+  },
+  {
+    "productId": "44444444-aaaa-4bbb-cccc-000000000007",
+    "name": "4K UHD Monitor 27\" Gaming",
+    "price": 459.0,
+    "datCreation": "2024-07-05T08:05:00Z",
+    "datUpdate": null,
+    "description": "27-inch 4K gaming monitor with fast IPS and 144Hz.",
+    "imageUrl": "https://example.com/images/4k-monitor-27-gaming.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "24444444-aaaa-4bbb-cccc-000000000001",
+        "productId": "44444444-aaaa-4bbb-cccc-000000000007",
+        "key": "Resolution",
+        "value": "3840x2160"
+      },
+      {
+        "specificationId": "24444444-aaaa-4bbb-cccc-000000000002",
+        "productId": "44444444-aaaa-4bbb-cccc-000000000007",
+        "key": "Refresh Rate",
+        "value": "144Hz"
+      },
+      {
+        "specificationId": "24444444-aaaa-4bbb-cccc-000000000003",
+        "productId": "44444444-aaaa-4bbb-cccc-000000000007",
+        "key": "Panel",
+        "value": "Fast IPS"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "34444444-aaaa-4bbb-cccc-000000000007",
+        "customerId": "a1b2c3d4-5678-49ab-90cd-ef0123456789",
+        "productId": "44444444-aaaa-4bbb-cccc-000000000007",
+        "score": 4.6,
+        "message": "Sharp with smooth motion."
+      }
+    ]
+  },
+  {
+    "productId": "44444444-bbbb-4ccc-dddd-000000000008",
+    "name": "Ultrawide Monitor 34\" Curved",
+    "price": 529.0,
+    "datCreation": "2024-07-05T09:20:00Z",
+    "datUpdate": null,
+    "description": "Curved ultrawide with high resolution for productivity.",
+    "imageUrl": "https://example.com/images/ultrawide-34-curved.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "24444444-bbbb-4ccc-dddd-000000000001",
+        "productId": "44444444-bbbb-4ccc-dddd-000000000008",
+        "key": "Resolution",
+        "value": "3440x1440"
+      },
+      {
+        "specificationId": "24444444-bbbb-4ccc-dddd-000000000002",
+        "productId": "44444444-bbbb-4ccc-dddd-000000000008",
+        "key": "Refresh Rate",
+        "value": "100Hz"
+      },
+      {
+        "specificationId": "24444444-bbbb-4ccc-dddd-000000000003",
+        "productId": "44444444-bbbb-4ccc-dddd-000000000008",
+        "key": "Curvature",
+        "value": "1500R"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "34444444-bbbb-4ccc-dddd-000000000008",
+        "customerId": "0f1e2d3c-4b5a-6c7d-8e9f-001122334455",
+        "productId": "44444444-bbbb-4ccc-dddd-000000000008",
+        "score": 4.5,
+        "message": "Great for multitasking."
+      }
+    ]
+  },
+  {
+    "productId": "55555555-aaaa-4bbb-cccc-000000000009",
+    "name": "Tablet M 13\" OLED",
+    "price": 649.0,
+    "datCreation": "2024-07-06T08:10:00Z",
+    "datUpdate": null,
+    "description": "Large-screen tablet with OLED display and expanded storage.",
+    "imageUrl": "https://example.com/images/tablet-m-13-oled.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "25555555-aaaa-4bbb-cccc-000000000001",
+        "productId": "55555555-aaaa-4bbb-cccc-000000000009",
+        "key": "Display",
+        "value": "13 inch OLED 120Hz"
+      },
+      {
+        "specificationId": "25555555-aaaa-4bbb-cccc-000000000002",
+        "productId": "55555555-aaaa-4bbb-cccc-000000000009",
+        "key": "Storage",
+        "value": "256GB"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "35555555-aaaa-4bbb-cccc-000000000009",
+        "customerId": "11223344-5566-4777-8899-aabbccddeeff",
+        "productId": "55555555-aaaa-4bbb-cccc-000000000009",
+        "score": 4.4,
+        "message": "OLED makes content pop."
+      }
+    ]
+  },
+  {
+    "productId": "55555555-bbbb-4ccc-dddd-00000000000a",
+    "name": "Stylus Pen M (2nd Gen)",
+    "price": 69.0,
+    "datCreation": "2024-07-06T09:25:00Z",
+    "datUpdate": null,
+    "description": "Second-generation stylus with lower latency and wireless charging.",
+    "imageUrl": "https://example.com/images/stylus-pen-m-2ndgen.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "25555555-bbbb-4ccc-dddd-000000000001",
+        "productId": "55555555-bbbb-4ccc-dddd-00000000000a",
+        "key": "Latency",
+        "value": "6ms"
+      },
+      {
+        "specificationId": "25555555-bbbb-4ccc-dddd-000000000002",
+        "productId": "55555555-bbbb-4ccc-dddd-00000000000a",
+        "key": "Charging",
+        "value": "Wireless (magnetic)"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "35555555-bbbb-4ccc-dddd-00000000000a",
+        "customerId": "22334455-6677-4888-99aa-bbccddeeff00",
+        "productId": "55555555-bbbb-4ccc-dddd-00000000000a",
+        "score": 4.6,
+        "message": "Noticeably lower latency."
+      }
+    ]
+  },
+  {
+    "productId": "66666666-aaaa-4bbb-cccc-00000000000b",
+    "name": "On‑Ear ANC Headphones",
+    "price": 199.0,
+    "datCreation": "2024-07-07T08:00:00Z",
+    "datUpdate": null,
+    "description": "Compact on‑ear design with modern Bluetooth and ANC.",
+    "imageUrl": "https://example.com/images/on-ear-anc-headphones.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "26666666-aaaa-4bbb-cccc-000000000001",
+        "productId": "66666666-aaaa-4bbb-cccc-00000000000b",
+        "key": "Battery Life",
+        "value": "25 hours"
+      },
+      {
+        "specificationId": "26666666-aaaa-4bbb-cccc-000000000002",
+        "productId": "66666666-aaaa-4bbb-cccc-00000000000b",
+        "key": "Connectivity",
+        "value": "Bluetooth 5.3"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "36666666-aaaa-4bbb-cccc-00000000000b",
+        "customerId": "33445566-7788-4999-aabb-ccddeeff0011",
+        "productId": "66666666-aaaa-4bbb-cccc-00000000000b",
+        "score": 4.2,
+        "message": "Light and portable."
+      }
+    ]
+  },
+  {
+    "productId": "66666666-bbbb-4ccc-dddd-00000000000c",
+    "name": "USB‑C Charger 65W (Dual‑Port)",
+    "price": 39.0,
+    "datCreation": "2024-07-07T09:35:00Z",
+    "datUpdate": null,
+    "description": "GaN charger with two USB‑C ports for fast charging.",
+    "imageUrl": "https://example.com/images/usb-c-charger-65w-dual.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "26666666-bbbb-4ccc-dddd-000000000001",
+        "productId": "66666666-bbbb-4ccc-dddd-00000000000c",
+        "key": "Power",
+        "value": "65W PD"
+      },
+      {
+        "specificationId": "26666666-bbbb-4ccc-dddd-000000000002",
+        "productId": "66666666-bbbb-4ccc-dddd-00000000000c",
+        "key": "Ports",
+        "value": "2x USB‑C"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "36666666-bbbb-4ccc-dddd-00000000000c",
+        "customerId": "44556677-8899-4aab-bbcc-ddeeff001122",
+        "productId": "66666666-bbbb-4ccc-dddd-00000000000c",
+        "score": 4.4,
+        "message": "Charges laptop and phone together."
+      }
+    ]
+  },
+  {
+    "productId": "77777777-aaaa-4bbb-cccc-00000000000d",
+    "name": "Mechanical Keyboard 75% (Linear)",
+    "price": 109.0,
+    "datCreation": "2024-07-08T08:10:00Z",
+    "datUpdate": null,
+    "description": "Compact 75% layout with hot‑swappable linear switches.",
+    "imageUrl": "https://example.com/images/mech-keyboard-75-linear.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "27777777-aaaa-4bbb-cccc-000000000001",
+        "productId": "77777777-aaaa-4bbb-cccc-00000000000d",
+        "key": "Switch Type",
+        "value": "Linear"
+      },
+      {
+        "specificationId": "27777777-aaaa-4bbb-cccc-000000000002",
+        "productId": "77777777-aaaa-4bbb-cccc-00000000000d",
+        "key": "Layout",
+        "value": "75%"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "37777777-aaaa-4bbb-cccc-00000000000d",
+        "customerId": "55667788-99aa-4bbc-ccdd-eeff00112233",
+        "productId": "77777777-aaaa-4bbb-cccc-00000000000d",
+        "score": 4.5,
+        "message": "Great feel and compact size."
+      }
+    ]
+  },
+  {
+    "productId": "77777777-bbbb-4ccc-dddd-00000000000e",
+    "name": "Bluetooth Mouse Pro",
+    "price": 49.0,
+    "datCreation": "2024-07-08T09:25:00Z",
+    "datUpdate": null,
+    "description": "Ergonomic mouse with higher DPI and AA battery option.",
+    "imageUrl": "https://example.com/images/bluetooth-mouse-pro.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "27777777-bbbb-4ccc-dddd-000000000001",
+        "productId": "77777777-bbbb-4ccc-dddd-00000000000e",
+        "key": "DPI",
+        "value": "800/1600/3200"
+      },
+      {
+        "specificationId": "27777777-bbbb-4ccc-dddd-000000000002",
+        "productId": "77777777-bbbb-4ccc-dddd-00000000000e",
+        "key": "Battery",
+        "value": "AA (replaceable)"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "37777777-bbbb-4ccc-dddd-00000000000e",
+        "customerId": "66778899-aabb-4ccd-ddee-ff0011223344",
+        "productId": "77777777-bbbb-4ccc-dddd-00000000000e",
+        "score": 4.2,
+        "message": "Comfortable with smooth tracking."
+      }
+    ]
+  },
+  {
+    "productId": "88888888-aaaa-4bbb-cccc-00000000000f",
+    "name": "USB‑C Hub 11‑in‑1 (2.5GbE)",
+    "price": 119.0,
+    "datCreation": "2024-07-09T08:30:00Z",
+    "datUpdate": null,
+    "description": "All‑in‑one hub with 8K HDMI and 2.5Gb Ethernet.",
+    "imageUrl": "https://example.com/images/usb-c-hub-11in1.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "28888888-aaaa-4bbb-cccc-000000000001",
+        "productId": "88888888-aaaa-4bbb-cccc-00000000000f",
+        "key": "Ports",
+        "value": "HDMI, DP, 2x USB‑A, 2x USB‑C, SD, microSD, 2.5GbE, Audio, PD"
+      },
+      {
+        "specificationId": "28888888-aaaa-4bbb-cccc-000000000002",
+        "productId": "88888888-aaaa-4bbb-cccc-00000000000f",
+        "key": "HDMI",
+        "value": "8K@30Hz"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "38888888-aaaa-4bbb-cccc-00000000000f",
+        "customerId": "77889900-aabb-4cdd-eeff-001122334455",
+        "productId": "88888888-aaaa-4bbb-cccc-00000000000f",
+        "score": 4.3,
+        "message": "Versatile hub, fast Ethernet."
+      }
+    ]
+  },
+  {
+    "productId": "88888888-bbbb-4ccc-dddd-000000000010",
+    "name": "External SSD 2TB (20Gbps)",
+    "price": 199.0,
+    "datCreation": "2024-07-09T10:00:00Z",
+    "datUpdate": null,
+    "description": "High‑speed portable SSD with USB 3.2 Gen 2x2.",
+    "imageUrl": "https://example.com/images/external-ssd-2tb.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "28888888-bbbb-4ccc-dddd-000000000001",
+        "productId": "88888888-bbbb-4ccc-dddd-000000000010",
+        "key": "Capacity",
+        "value": "2TB"
+      },
+      {
+        "specificationId": "28888888-bbbb-4ccc-dddd-000000000002",
+        "productId": "88888888-bbbb-4ccc-dddd-000000000010",
+        "key": "Interface",
+        "value": "USB‑C 20Gbps"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "38888888-bbbb-4ccc-dddd-000000000010",
+        "customerId": "88990011-aabb-4dee-ff00-112233445566",
+        "productId": "88888888-bbbb-4ccc-dddd-000000000010",
+        "score": 4.6,
+        "message": "Blazing fast transfers."
+      }
+    ]
+  },
+  {
+    "productId": "99999999-aaaa-4bbb-cccc-000000000011",
+    "name": "Magnetic Power Bank 10,000mAh",
+    "price": 59.0,
+    "datCreation": "2024-07-10T08:05:00Z",
+    "datUpdate": null,
+    "description": "Slim magnetic battery pack with wireless output.",
+    "imageUrl": "https://example.com/images/power-bank-10000-magnetic.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "29999999-aaaa-4bbb-cccc-000000000001",
+        "productId": "99999999-aaaa-4bbb-cccc-000000000011",
+        "key": "Capacity",
+        "value": "10,000mAh"
+      },
+      {
+        "specificationId": "29999999-aaaa-4bbb-cccc-000000000002",
+        "productId": "99999999-aaaa-4bbb-cccc-000000000011",
+        "key": "Wireless Output",
+        "value": "15W"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "39999999-aaaa-4bbb-cccc-000000000011",
+        "customerId": "99aa0011-bbcc-4def-0011-223344556677",
+        "productId": "99999999-aaaa-4bbb-cccc-000000000011",
+        "score": 4.3,
+        "message": "Clicks on firmly, charges well."
+      }
+    ]
+  },
+  {
+    "productId": "99999999-bbbb-4ccc-dddd-000000000012",
+    "name": "4K Webcam Streamer",
+    "price": 149.0,
+    "datCreation": "2024-07-10T09:30:00Z",
+    "datUpdate": null,
+    "description": "Creator‑focused webcam with 60fps and narrower FOV.",
+    "imageUrl": "https://example.com/images/4k-webcam-streamer.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "29999999-bbbb-4ccc-dddd-000000000001",
+        "productId": "99999999-bbbb-4ccc-dddd-000000000012",
+        "key": "Resolution",
+        "value": "4K"
+      },
+      {
+        "specificationId": "29999999-bbbb-4ccc-dddd-000000000002",
+        "productId": "99999999-bbbb-4ccc-dddd-000000000012",
+        "key": "Frame Rate",
+        "value": "60fps"
+      },
+      {
+        "specificationId": "29999999-bbbb-4ccc-dddd-000000000003",
+        "productId": "99999999-bbbb-4ccc-dddd-000000000012",
+        "key": "Field of View",
+        "value": "78°"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "39999999-bbbb-4ccc-dddd-000000000012",
+        "customerId": "aa001122-bbcc-4def-1122-334455667788",
+        "productId": "99999999-bbbb-4ccc-dddd-000000000012",
+        "score": 4.4,
+        "message": "Smooth 60fps output."
+      }
+    ]
+  },
+  {
+    "productId": "aaaa0000-bbbb-4ccc-dddd-000000000013",
+    "name": "Dynamic Podcast Microphone (USB‑C/XLR)",
+    "price": 179.0,
+    "datCreation": "2024-07-11T08:45:00Z",
+    "datUpdate": null,
+    "description": "Dynamic mic with dual USB‑C and XLR connectivity for studio and home.",
+    "imageUrl": "https://example.com/images/dynamic-podcast-mic.jpg",
+    "specificationsList": [
+      {
+        "specificationId": "2aaa0000-bbbb-4ccc-dddd-000000000001",
+        "productId": "aaaa0000-bbbb-4ccc-dddd-000000000013",
+        "key": "Pattern",
+        "value": "Cardioid (Dynamic)"
+      },
+      {
+        "specificationId": "2aaa0000-bbbb-4ccc-dddd-000000000002",
+        "productId": "aaaa0000-bbbb-4ccc-dddd-000000000013",
+        "key": "Connector",
+        "value": "USB‑C / XLR"
+      },
+      {
+        "specificationId": "2aaa0000-bbbb-4ccc-dddd-000000000003",
+        "productId": "aaaa0000-bbbb-4ccc-dddd-000000000013",
+        "key": "Included",
+        "value": "Shock mount, windscreen"
+      }
+    ],
+    "ratingList": [
+      {
+        "ratingId": "3aaa0000-bbbb-4ccc-dddd-000000000013",
+        "customerId": "bb112233-cc44-4dd5-ee66-77889900aabb",
+        "productId": "aaaa0000-bbbb-4ccc-dddd-000000000013",
+        "score": 4.5,
+        "message": "Great rejection and versatility."
+      }
+    ]
+  }
+]

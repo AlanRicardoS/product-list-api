@@ -1,0 +1,44 @@
+### GET ALL PRODUCTS
+GET http://localhost:8080/products?
+    sort=price&direction=asc
+
+### GET PRODUCTS WITH PAGINATION BY PRICE ASC
+GET http://localhost:8080/products?
+    sort=price&direction=asc
+
+### GET PRODUCTS WITH PAGINATION BY PRICE DESC
+GET http://localhost:8080/products?
+    sort=price&direction=desc
+
+### GET PRODUCTS WITH PAGINATION BY NAME ASC
+GET http://localhost:8080/products?
+    sort=name&direction=asc
+
+### GET PRODUCTS WITH PAGINATION BY NAME DESC
+GET http://localhost:8080/products?
+    sort=name&direction=desc
+
+### GET PRODUCTS WITH PAGINATION BY CREATED AT ASC
+GET http://localhost:8080/products?
+    direction=asc
+
+### GET PRODUCTS WITH PAGINATION BY CREATED AT DESC
+GET http://localhost:8080/products?
+    direction=desc
+
+### GET PRODUCTS WITH PAGINATION BY RATING ASC
+GET http://localhost:8080/products?
+    sort=rating&direction=asc
+
+### GET PRODUCTS WITH PAGINATION BY RATING DESC
+GET http://localhost:8080/products?
+    sort=rating&direction=desc
+
+### GET PRODUCT BY ID
+GET http://localhost:8080/products/03059512-264d-4525-876a-c1331aef5a80
+
+### SEARCH PRODUCTS
+GET http://localhost:8080/products/search?query=Laptop
+
+### SEARCH PRODUCTS BY SPECIFICATIONS
+GET http://localhost:8080/products/search?name=Laptop&specifications=RAM%3A16GB&ratingMin=4&ratingMax=5&priceMin=500&priceMax=25001500

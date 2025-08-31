@@ -1,0 +1,23 @@
+# Gradle
+/build/
+/.gradle/
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+/out/
+
+# Others
+*.jar
+*.war
+*.ear
